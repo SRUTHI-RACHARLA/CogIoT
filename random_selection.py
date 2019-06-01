@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 26 22:23:03 2019
 
-@author: RSruthi
+@author:sru
 """
 
 ###############################Random Selection Method############################################
